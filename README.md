@@ -96,6 +96,4 @@ This script will:
 * Include **screenshots of all five terminals running** and the final stabilization message.
 * Save images in your repo (e.g., `screenshots/`) and reference them in the README:
 
-```markdown
-![Server running](./image-20231101100027110.png)
-```
+![Server running](output.png)
